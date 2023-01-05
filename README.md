@@ -1,2 +1,2 @@
-# 2022-operating-system
-운영체제
+# 2022 Operating System
+
